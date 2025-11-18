@@ -1,2 +1,0 @@
-# crop-resi
-croop resi
